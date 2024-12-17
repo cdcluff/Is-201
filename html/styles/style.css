@@ -1,0 +1,73 @@
+/* This is for my RESUME PAGE */
+
+#headerR{
+    background-color:royalblue;
+    position: absolute;
+     left: 0px;
+    top: 0px;
+    right: 0px;
+    height: 50px;
+
+    
+}
+#headerR li{
+    float: left;
+        margin-left: 10px;
+    margin-right: 10px;
+    
+}
+
+#headerR a{
+    color: azure;
+     text-decoration: none;
+     font-family:calibri;
+    
+}
+
+#headerR ul{
+        list-style-type: none;
+}
+#headerR a:hover{
+    text-decoration: underline;
+    color: navajowhite;
+   
+}
+
+#centerR{
+    position: absolute;
+    top: 30px;
+    left: 50px;
+    right: 50px;
+    bottom: 50px;
+    padding: 20px;
+    font-family: sans-serif;
+}
+
+.resinfo{
+    font-family: sans-serif;
+}
+
+
+
+.RE{
+    font-weight:bold;
+}
+.RE1{
+    font-style:italic;
+}
+
+#footerR{
+    background-color:rgba(128, 128, 128, 0.196);
+    position: fixed;
+    bottom: 0px;
+    left: 5px;
+    right: 5px;
+    height: 22px;
+    color: white;
+    text-align:center;
+    Font-family: calibri;
+}
+
+body{
+    background-color:beige;
+}

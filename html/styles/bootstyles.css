@@ -1,0 +1,115 @@
+/*This is the styling for the TABLEAU PAGE*/
+
+body{
+    font-family: calibri;
+}
+
+.boldme{
+    font-weight: bolder;
+}
+
+#header{
+    background-color:skyblue;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    right: 0px;
+    height: 50px;
+    font-family: calibri;
+    
+   
+}
+
+#header li{
+    float: right;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#center{
+    position: absolute;
+    top: 50px;
+    padding: 20px;
+}
+
+
+
+
+
+
+#header ul{
+    list-style-type: none;
+}
+
+#header a{
+    color: black;
+    text-decoration: none;
+    font-family: calibri;
+    font-weight: bold;
+    
+}
+
+#header a:hover{
+    text-decoration: underline;
+    color: cornsilk;
+}
+
+#mypicture{
+    width: 100px;
+    margin-top: 20px;
+}
+
+.cap{
+    font-size: 20px;
+    font-family: calibri;
+    font-style: italic;
+}
+
+.tabcopy{
+    text-align: center;
+    font-family: calibri;
+    
+}
+
+.nobullet{
+    list-style-type: none;
+}
+
+#Tab1{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#Tab2{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+#Tab3{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+}
+#Tab4{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;}
+
+.footerTAB{
+    position: fixed;
+  left: 0;
+  bottom: -16px;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+
+#anchortab{
+    font-family: calibri;
+    
+}

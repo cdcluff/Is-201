@@ -1,0 +1,67 @@
+/* This is the styles sheet for my scratch page */
+
+p{
+    color:brown
+}
+
+ol{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.bold1{font-weight: bold;}
+
+.italic1{font-style: italic;}
+
+.highlight1{background-color: yellow;
+    color:black
+}
+
+.underline1{text-decoration: underline;}
+
+.div1{border:5px outset red;
+background-color: lightblue;
+text-align: left;
+}
+
+.header1{ 
+    color: blue; 
+    font-size: 48px; 
+    text-align: left; 
+    text-transform: uppercase; 
+    margin: 20px 0; 
+  }
+
+  .header2 {
+    font-weight: bold;       /* Makes the text bold */
+    color: #2a9d8f;          /* Adds a nice greenish color */
+    font-size: 20px;         /* Adjusts the font size */
+    text-align: left;      /* Centers the text */
+    width: fit-content;      /* Keeps the paragraph width snug around the text */
+  }
+
+  /*For the home button */
+  .nav-item {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2a9d8f;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+    color: #ffffff;
+    font-weight: bold;
+    text-decoration: none;
+  }
+  
+  .nav-item:hover {
+    background-color: #1f776a;
+  }
+
+  #mypicpickleball{
+        width: 400px; /* Sets the width to 200px */
+        height: auto; /* Maintains the aspect ratio */
+        object-fit: cover; /* Ensures the image covers the area while maintaining aspect ratio */
+  }
+
+  /* Background Color */
+  body {
+   background-color: #ffffe0;
+
+  }

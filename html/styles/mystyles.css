@@ -1,0 +1,77 @@
+/* This is for my INDEX and ABOUTME pages */
+
+#mypic{
+    width: 350px;
+    margin-right: 70px;
+    
+}
+
+.highlight{
+    font-weight: bold;
+}
+
+.blue{
+    color: cornflowerblue;
+}
+
+#friends{
+      
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#fam{
+      
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#sports{
+      
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#yall{
+      
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.contact
+{
+    font-family: calibri;
+    font-size: 12px;
+
+}
+.contacthead{
+
+    font-family: calibri;
+    font-size: 14px;
+    text-decoration: underline;
+    
+}
+.vid{
+      display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+    
+}
+.aboutback{
+    
+  font-family: 'Lora';
+  background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65));
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+}
